@@ -1,4 +1,4 @@
-**# Microwave-Assisted Polycarbonate Recycling with AI/ML Optimization**
+##  **Microwave-Assisted Polycarbonate Recycling with AI/ML Optimization**
 
 ## **Project Overview**
 This project focuses on the microwave-assisted recycling of polycarbonate plastics. By leveraging AI/ML models, we aim to optimize process parameters and predict recycling outcomes. The goal is to enhance efficiency, reduce energy consumption, and improve yield quality.
